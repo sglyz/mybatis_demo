@@ -28,6 +28,15 @@ public class Ademo {
     
     }
 
+    public void aa4 (){
+
+        System.out.println("aa4");
+    }
+
+    public void aa5(){
+
+        System.out.println("aa5");
+    }
 
 
 
