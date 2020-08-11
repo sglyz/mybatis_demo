@@ -33,5 +33,9 @@ public class Ademo {
         System.out.println("aa4");
     }
 
+    public void aa5(){
+
+        System.out.println("aa5");
+    }
 
 }
