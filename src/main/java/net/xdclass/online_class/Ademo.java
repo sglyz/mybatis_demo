@@ -43,4 +43,9 @@ public class Ademo {
         System.out.println("aabcccc");
 
     }
+
+    public void abc(){
+
+        System.out.println(1111);
+    }
 }
