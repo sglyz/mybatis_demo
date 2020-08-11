@@ -29,4 +29,18 @@ public class Ademo {
     }
 
 
+
+
+
+
+
+
+
+
+    public  void aaaa(){
+
+
+        System.out.println("aabcccc");
+
+    }
 }
